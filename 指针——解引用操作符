@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main()
+{
+	int a = 10;//申请了4个字节的空间
+	int* p = &a;//p是一个变量-指针变量
+	*p = 20;//*- 解引用操作符/间接访问操作符
+	printf("%d\n", a);
+	return 0;
+}
