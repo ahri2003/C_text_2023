@@ -1,0 +1,9 @@
+int main()
+{
+	int num = 4;
+	if (5 == num)
+	{
+		printf("hello\n");
+		return 0;
+	}
+}
