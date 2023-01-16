@@ -18,6 +18,6 @@ int main()
 		left++;
 		right--;
 	}
-	printf("welcome to meina's room\n");
+	printf("welcome to nana's room\n");
 	return 0;
 }
